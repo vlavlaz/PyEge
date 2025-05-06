@@ -14,3 +14,4 @@ for x in alf:
     if res%12==0:
         print(res//12)
 print("end")
+
