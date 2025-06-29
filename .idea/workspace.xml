@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="you">
-      <change afterPath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/Task23.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/MyPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyPython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask10.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask11.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask13.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask5.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/SimpleTasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/SimpleTasks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,34 +34,46 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/vlavlaz/MyPython.git&quot;,
-    &quot;accountId&quot;: &quot;9447b74e-9297-4692-8f9a-9962ea0e236d&quot;
+    &quot;accountId&quot;: &quot;f510f181-106f-4fb5-ad76-a30c74901711&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+    </hideBySeverity>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2w5bOQPfrCiICxV3yj9fzgcsKPr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DrawMountains.executor": "Run",
-    "Python.MCKOTask10.executor": "Run",
-    "Python.MCKOTask11.executor": "Run",
-    "Python.MCKOTask13.executor": "Run",
-    "Python.MCKOTask13inline.executor": "Run",
-    "Python.MCKOTask2.executor": "Run",
-    "Python.MCKOTask5.executor": "Run",
-    "Python.MCKOTask6.executor": "Run",
-    "Python.SimpleTasks.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/student/PycharmProjects/10I/MyPython/DasAlgos/MCKO10classDemo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DrawMountains.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask13inline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SimpleTasks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task23.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/student/PycharmProjects/10I/MyPython/DasAlgos/MCKO10classDemo&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\student\PycharmProjects\10I\MyPython\DasAlgos\MCKO10classDemo" />
@@ -104,7 +110,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -143,6 +149,17 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Оптимизировал фудзияму - алгоритм рисования гор" />
