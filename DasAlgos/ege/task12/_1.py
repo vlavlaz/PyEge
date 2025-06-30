@@ -9,7 +9,7 @@ def has8888 (s):
     else: return False
 
 ANS = 0
-import EGE
+from EGE import *
 for n in range (4, 10001):
     buz = "8" + "4" * n
     #pragma
@@ -21,7 +21,7 @@ for n in range (4, 10001):
         if has8888:
             buz = buz.replace("8888", "1", 1)
     #pragma_end
-    check = EGE.digSUM(buz)
+    check = digSUM(buz)
     if check > ANS:
         print(check, ANS, n)
         ANS = check

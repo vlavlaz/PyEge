@@ -1,9 +1,10 @@
 #Алгоритм перевода числа x в любую до 37 системы счисления
 print("crackEGE --> ON")
+alf: str = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
 def cs_conv(x, to_counting_system):
     res = ""
     neg = ""
-    alf = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
     if to_counting_system >= 63 or to_counting_system <= 0:
         print(to_counting_system + "not supported CS")
         return -1
@@ -17,17 +18,28 @@ def cs_conv(x, to_counting_system):
         x //= to_counting_system
     res = neg+res
     return res
+
 def digSUM(number):
     summ = 0
-    number = str(number)
-    for x in number:
-        summ += int(x)
+    strber = str(number)
+    if int(number) == 0:
+        return 0
+    elif strber[0] == 0:
+        strber = strber[2:]
+    for x in strber:
+        summ += alf.index(x)
     return summ
 
-def digSUM(number, counting_system):
-    summ = 0
-    number = str(int(number, counting_system))
-    for x in number:
-        summ += int(x)
-    return summ
+def digMULT(number):
+    mult = 1
+    strber = str(number)
+    if int(number) == 0:
+        return 0
+    elif strber[0] == 0:
+        strber = strber[2:]
+    for x in strber:
+        mult *= alf.index(x)
+    return mult
+
+
 

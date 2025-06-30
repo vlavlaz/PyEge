@@ -7,4 +7,5 @@ for y in alf:
     su = a+b
     if su%14 == 0:
         print(su//14)
+
 #43166 -> CORRECT Халявка

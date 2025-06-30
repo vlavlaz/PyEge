@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Задание 23 уничтожено, но не запрогано.">
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task12/_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type1/_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EGE.py" afterDir="false" />
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Накидал за щеку заданиям на прогу, добавил свою ЕГЭ либу">
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task5/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task5/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/Task23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task12/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type1/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type1/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGE.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,15 +88,17 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/student/PycharmProjects/10I/MyPython/DasAlgos/MCKO10classDemo"
+    "last_opened_file_path": "/home/vlaz/pyprojects/MyPython/DasAlgos/ege/task9"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DasAlgos/ege/task9" />
       <recent name="C:\Users\student\PycharmProjects\10I\MyPython\DasAlgos\MCKO10classDemo" />
       <recent name="C:\Users\vlavl\PycharmProjects\MyPython\DasAlgos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DasAlgos/ege/task9" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task14/type2" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task14/type1" />
       <recent name="C:\Users\vlavl\PycharmProjects\MyPython\DasAlgos\MCKODemo" />
@@ -167,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751200821347</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Накидал за щеку заданиям на прогу, добавил свою ЕГЭ либу">
+      <option name="closed" value="true" />
+      <created>1751230837076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751230837076</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +203,7 @@
     <MESSAGE value="решил DemoMCKO для 10 класса" />
     <MESSAGE value="you" />
     <MESSAGE value="Задание 23 уничтожено, но не запрогано." />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 23 уничтожено, но не запрогано." />
+    <MESSAGE value="Накидал за щеку заданиям на прогу, добавил свою ЕГЭ либу" />
+    <option name="LAST_COMMIT_MESSAGE" value="Накидал за щеку заданиям на прогу, добавил свою ЕГЭ либу" />
   </component>
 </project>
