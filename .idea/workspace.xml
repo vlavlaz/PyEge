@@ -4,20 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Накидал за щеку заданиям на прогу, добавил свою ЕГЭ либу">
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task5/_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task5/_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_2.txt" afterDir="false" />
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Поправил либу, накинул заданий, задание 9_2 багнулось">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task17/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task17/_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task17/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task17/_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task24/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task24/_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task24/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task24/_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task24/_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task24/_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task25/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task25/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task26/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task26/_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task26/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task26/_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task26/_2AI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task12/_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type1/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type1/_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EGE.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +55,9 @@
     &quot;accountId&quot;: &quot;f510f181-106f-4fb5-ad76-a30c74901711&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DasAlgos/ege/task26/_1.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <hideBySeverity>
       <option value="11" />
@@ -82,20 +93,27 @@
     "Python.Task23.executor": "Run",
     "Python._1.executor": "Run",
     "Python._2.executor": "Run",
+    "Python._3.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.tests.executor": "Run",
     "Python.type1.executor": "Run",
     "Python.type2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vlaz/pyprojects/MyPython/DasAlgos/ege/task9"
+    "last_opened_file_path": "/home/vlaz/pyprojects/MyPython/DasAlgos/ege/task26",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DasAlgos/ege/task26" />
+      <recent name="$PROJECT_DIR$/DasAlgos/ege/task24" />
+      <recent name="$PROJECT_DIR$/DasAlgos/ege/task17" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task9" />
       <recent name="C:\Users\student\PycharmProjects\10I\MyPython\DasAlgos\MCKO10classDemo" />
-      <recent name="C:\Users\vlavl\PycharmProjects\MyPython\DasAlgos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task9" />
@@ -127,6 +145,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -184,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751230837076</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Поправил либу, накинул заданий, задание 9_2 багнулось">
+      <option name="closed" value="true" />
+      <created>1751290282595</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751290282595</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +257,7 @@
     <MESSAGE value="you" />
     <MESSAGE value="Задание 23 уничтожено, но не запрогано." />
     <MESSAGE value="Накидал за щеку заданиям на прогу, добавил свою ЕГЭ либу" />
-    <option name="LAST_COMMIT_MESSAGE" value="Накидал за щеку заданиям на прогу, добавил свою ЕГЭ либу" />
+    <MESSAGE value="Поправил либу, накинул заданий, задание 9_2 багнулось" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поправил либу, накинул заданий, задание 9_2 багнулось" />
   </component>
 </project>

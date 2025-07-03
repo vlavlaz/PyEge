@@ -1,5 +1,7 @@
 #Алгоритм перевода числа x в любую до 37 системы счисления
 print("crackEGE --> ON")
+
+BIG_NUM = 4294967296
 alf: str = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 def cs_conv(x, to_counting_system):
@@ -40,6 +42,5 @@ def digMULT(number):
     for x in strber:
         mult *= alf.index(x)
     return mult
-
 
 
