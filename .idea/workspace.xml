@@ -4,15 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="С почином 27 задание, доделать _2">
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task27/_2Aunsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task27/_2B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task27/_2Bunsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task27/_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task27/_3A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task27/_3B.txt" afterDir="false" />
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="27 задание - ужас на крыльях ночи">
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task12/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task13/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type1/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task17/_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task17/_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task2/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task24/_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task24/_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task25/_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task26/_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task26/_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task5/_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task8/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task26/_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +93,7 @@
     "Python._2A.executor": "Run",
     "Python._2B.executor": "Run",
     "Python._3.executor": "Run",
+    "Python._4.executor": "Run",
     "Python.test.executor": "Run",
     "Python.tests.executor": "Run",
     "Python.type1.executor": "Run",
@@ -91,18 +103,18 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vlaz/pyprojects/MyPython/DasAlgos/ege/task27",
+    "last_opened_file_path": "/home/vlaz/pyprojects/MyPython/DasAlgos/ege/task24",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/DasAlgos/ege/task27" />
-      <recent name="$PROJECT_DIR$/DasAlgos/ege/task26" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task24" />
+      <recent name="$PROJECT_DIR$/DasAlgos/ege/task26" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task17" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task9" />
+      <recent name="$PROJECT_DIR$/DasAlgos/ege/task27" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task9" />
@@ -199,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751638227682</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="27 задание - ужас на крыльях ночи">
+      <option name="closed" value="true" />
+      <created>1751718343419</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1751718343419</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +243,7 @@
     <MESSAGE value="Надо будет каждый завершенный рабочий день коммит делать,чтобы очев была продуктивность за день по инфе" />
     <MESSAGE value="Добил 26 задание" />
     <MESSAGE value="С почином 27 задание, доделать _2" />
-    <option name="LAST_COMMIT_MESSAGE" value="С почином 27 задание, доделать _2" />
+    <MESSAGE value="27 задание - ужас на крыльях ночи" />
+    <option name="LAST_COMMIT_MESSAGE" value="27 задание - ужас на крыльях ночи" />
   </component>
 </project>
