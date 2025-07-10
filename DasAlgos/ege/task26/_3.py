@@ -51,15 +51,3 @@ for first_end in end_dur.keys():
     if max_konf(first_end, sorted_ends, end_dur) == 91:
         print(schedule(first_end, sorted_ends, end_dur))
 print(9914 - end_dur[9914])
-#91, 9881 --> CORRECT
-
-
-
-
-###
-#for first_end in end_dur.keys():
-#    if max_konf(first_end, sorted_ends, end_dur) == 66 and mx_time < first_end - end_dur[first_end]:
-#        mx_time = first_end-end_dur[first_end]
-#        print(mx_time)
-
-#print(max_k, mx_time) #66, 18 --> CORRECT

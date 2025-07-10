@@ -1,6 +1,4 @@
 #https://education.yandex.ru/ege/task/ba7d71e4-ead2-497b-b1ee-8a914efa02d9
-#Может баг задания, может я бомж - хз перерешать позже
-
 primes = []
 for p in range(2, round(973146285**(1/2))+1):
     count = 0

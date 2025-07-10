@@ -33,8 +33,6 @@ for i in range(0, len(s)):
             break
 print(mx)
 
-#90 -> CORRECT
-
 
 
 

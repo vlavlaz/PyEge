@@ -14,4 +14,3 @@ for start in range(0, len(stroke)):
                     mx = len(sub_s)
                 break
 print(mx)
-#CORRECT -> 11

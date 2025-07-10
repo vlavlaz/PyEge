@@ -45,4 +45,4 @@ for first_end in end_dur.keys():
         mx_time = first_end-end_dur[first_end]
         print(mx_time)
 
-print(max_k, mx_time) #66, 18 --> CORRECT
+print(max_k, mx_time)

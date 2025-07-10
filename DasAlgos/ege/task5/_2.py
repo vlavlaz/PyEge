@@ -14,4 +14,3 @@ for n in range (11, 1000):
     if int(R, 5) > 375:
         print(n)
         break
-#13 -> CORRECT

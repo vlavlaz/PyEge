@@ -18,5 +18,3 @@ for i in range(0, len(s)):
             print(len(sub_s))
             minl = len(sub_s)
 print(minl)
-
-#1151 --> CORRECT

@@ -117,9 +117,6 @@ print(int(maXdist(claster_3)*10000), int(maYdist(claster_3)*10000))
 print(int(maXdist(claster_4)*10000), int(maYdist(claster_4)*10000))
 print(int(maXdist(claster_5)*10000), int(maYdist(claster_5)*10000))
 
-#14749, 14299
-#12891, 14700
-
 
 
 

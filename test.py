@@ -1,3 +1,5 @@
-s = [5,2,7,4]
-print(sorted(s, reverse=True))
-#
+a = "82d12"
+if not "d" in a:
+    print("Good")
+else:
+    print("False")

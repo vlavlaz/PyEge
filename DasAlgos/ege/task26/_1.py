@@ -26,4 +26,3 @@ for i in range (0, len(rows)):
                 good_rows_plcs[rows[i]] = [x, y]
 a = max(good_rows_plcs.keys())
 print(a, good_rows_plcs[a])
-#59966, 50449 --> CORRECT

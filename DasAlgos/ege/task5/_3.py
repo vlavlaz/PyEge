@@ -14,4 +14,3 @@ for N in range (100000):
     if int(R,3) < 1200:
         print(R)
         print(int(R,3))
-#CORRECT -> 1093

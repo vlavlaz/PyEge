@@ -16,4 +16,3 @@ for x in range(-10*k, 12*k, k):
         goto(x, y)
         dot(4, "red")
 done()
-#98 -> CORRECT

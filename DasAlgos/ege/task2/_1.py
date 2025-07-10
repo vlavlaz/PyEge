@@ -8,4 +8,3 @@ for x in 0, 1:
                 if not f:
                     print(x,y,z,w,f)
 print("ANSWER: Y Z W X")
-#CORRECT -> Y Z W X

@@ -26,4 +26,3 @@ for n in range (4, 10001):
         print(check, ANS, n)
         ANS = check
 print(ANS)
-#CORRECT

@@ -22,4 +22,3 @@ for i in range (0, len(nums)-3, 4):
     if mx < su - mx and sec_cond(nums[i], nums[i+1], nums[i+2], nums[i+3]):
         count+=1
 print(count)
-#116 -> CORRECT

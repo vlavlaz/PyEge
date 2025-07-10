@@ -18,4 +18,3 @@ for i in range (0, len(s)):
         else:
             w -= 1
 print(mx)
-#Люблю побеждать!

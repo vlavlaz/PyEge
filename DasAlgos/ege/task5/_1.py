@@ -15,5 +15,3 @@ for N in range(1000, 10000):
         if R == 256:
             print(N)
             break
-
-#1377 -> CORRECT

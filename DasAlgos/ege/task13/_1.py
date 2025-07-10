@@ -2,10 +2,13 @@
 #net: 192.168.0.0
 #mask: 255.255.192.0
 #0*14
-#WRONG
-countANS = 0
+#WRONG: АЙПИ АДРЕС СЕТИ ЭТО НЕ ТОЛЬКО ПОСЛЕДНИЕ N-32 СИМВОЛОВ ДУРЕНЬ!!!
+#CORRECTED --> 106
+net = bin(192)[2:].zfill(8) + bin(168)[2:].zfill(8) + bin(0)[2:].zfill(8) + bin(0)[2:].zfill(8)
+c = 0
+net = net[:18]
 for i in range(0, 2**14):
-    ip = bin(i)
+    ip = net+bin(i)[2:].zfill(14)
     if ip.count("1") > ip.count("0"):
-        countANS+=1
-print(countANS)
+        c+=1
+print(c)

@@ -10,6 +10,3 @@ for i in range(0, 10**10, 9799):
 for i in range(0, 10**10, 8465):
     if fnmatch(str(i), mask):
         print(i, i/8465)
-
-#CORRECT -> 1024265 121
-#           1016824265 120121

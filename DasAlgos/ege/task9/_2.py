@@ -18,4 +18,4 @@ for i in range(0, len(nums), 3):
     if _1cond(nums[i], nums[i+1], nums[i+2]) and _2cond(nums[i], nums[i+1], nums[i+2]):
         count+=1
 print(count)
-#ХУЙНЯ, я точно все правильно сделал.
+
