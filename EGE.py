@@ -19,7 +19,7 @@ def cs_conv(x, to_counting_system):
         res += alf[x % to_counting_system]
         x //= to_counting_system
     res = neg+res
-    return res
+    return res[::-1]
 
 def digSUM(number):
     summ = 0

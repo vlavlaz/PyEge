@@ -6,7 +6,7 @@ def algo(s):
         if "844" in s:
             s = s.replace("844", "488", 1)
         if "84" in s:
-            s = s.replace("84", "3343")
+            s = s.replace("84", "3343", 1)
     return s
 for n in range(4, 10001):
     out = algo("8"+"4"*n)

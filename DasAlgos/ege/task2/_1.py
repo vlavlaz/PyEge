@@ -1,4 +1,5 @@
 #https://education.yandex.ru/ege/task/7a1cd054-b366-41c5-b596-99e0d45835fd
+
 print("x y z w F")
 for x in 0, 1:
     for y in 0, 1:

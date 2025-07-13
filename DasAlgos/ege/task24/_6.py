@@ -2,39 +2,20 @@ s = ""
 with open("_6.txt") as f:
     for x in f:
         s = x
-#ABA or BAB o ABABAB - good.
-flag_a = False
+#ABA or BAB o ABABAB, also BABBAB, ABAABA- good.
+#Plan: searching for exact ABA or BAB in 3 chars, break if didn't find
+count = 0
 mx = 0
-that_s = ""
-flag_b = False
-for start in range(0 ,len(s)):
-    sub_s =""
-    if s[start] == "A":
-        flag_a = True
-        sub_s+="A"
-    elif s[start] == "B":
-        sub_s+="B"
-        flag_b = True
-    else: continue
-    for i in range(start+1, len(s)):
-        if flag_a:
-            if s[i] == "B":
-                sub_s+="B"
-                flag_b = True
-                flag_a = False
-                continue
+for i in range(0, len(s)):
+    if s[i] in "AB":
+        for j in range(i, len(s), 3):
+            if s[j:j+3] == "ABA" or s[j:j+3] == "BAB":
+                print(s[j:j + 3], count)
+                count += 1
             else:
                 break
-        if flag_b:
-            if s[i] == "A":
-                sub_s+="A"
-                flag_b = False
-                flag_a = True
-                continue
-            else:
-                break
-    l = len(sub_s)
-    if l > mx:
-        mx = l
-        that_s = sub_s
-print(that_s, mx)
+    if mx < count:
+        mx = count
+        print(count)
+    count = 0
+print(mx)
