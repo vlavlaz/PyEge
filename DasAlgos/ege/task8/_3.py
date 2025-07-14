@@ -1,3 +1,4 @@
+#https://education.yandex.ru/ege/task/60c1a00c-2fd4-472e-b4aa-50791d6bddb8
 #7 lets
 alf = "КАБИНЕТ"
 count = 0

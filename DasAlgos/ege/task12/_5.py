@@ -1,3 +1,4 @@
+#https://education.yandex.ru/ege/task/89ed586b-3157-4429-b569-0041d7adbd6d
 def algo(s):
     s = str(s)
     while "4444" in s or "844" in s or "84" in s:

@@ -1,3 +1,4 @@
+#https://education.yandex.ru/ege/task/ac407c00-8ed4-46fb-b78c-45b5ebcd9b6d
 pairs = []
 with open("_5.txt") as f:
     nums = []

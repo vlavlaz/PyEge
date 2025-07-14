@@ -1,3 +1,4 @@
+#https://education.yandex.ru/ege/task/8cf5f358-d940-4c96-b34d-e8448147eeb5
 def algo(N):
     _2 = bin(N)[2:]
     if N%2==0:

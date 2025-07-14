@@ -1,3 +1,4 @@
+#https://education.yandex.ru/ege/task/0c1968f6-ce78-40ac-991c-a4f080b9e66e
 from turtle import *
 k = 20
 speed(10)
