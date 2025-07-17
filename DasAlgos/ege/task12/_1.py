@@ -9,7 +9,7 @@ def has8888 (s):
     else: return False
 
 ANS = 0
-from EGE import *
+from DasAlgos.EGE import *
 for n in range (4, 10001):
     buz = "8" + "4" * n
     #pragma

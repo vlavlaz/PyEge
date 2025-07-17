@@ -1,6 +1,6 @@
 #https://education.yandex.ru/ege/task/9fb60578-88e4-465d-b603-dbf30d312808
 
-from EGE import *
+from DasAlgos.EGE import *
 def algo(x):
     x_5 = cs_conv(x, 5)
     if x % 5 == 0:

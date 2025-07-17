@@ -1,6 +1,5 @@
 # https://education.yandex.ru/ege/task/9e1238d3-5ea2-4d41-8aec-816b627cdf6b
 
-from EGE import *
 f = open("_1.txt")
 nums = [int(x) for x in f]
 mx3 = 0

@@ -1,4 +1,4 @@
-from EGE import *
+from DasAlgos.EGE import *
 def algo(init):
     while not "00" in init:
         init = init.replace("01", "220", 1)

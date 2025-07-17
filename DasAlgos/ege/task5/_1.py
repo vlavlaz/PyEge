@@ -1,6 +1,6 @@
 #https://education.yandex.ru/ege/task/65bc5b5a-439d-4f2e-b1cd-c6927ace1c2d
 
-from EGE import *
+from DasAlgos.EGE import *
 def algo(N):
     st = str(N).replace("3", "4")
     st = st.replace("7", "8")
