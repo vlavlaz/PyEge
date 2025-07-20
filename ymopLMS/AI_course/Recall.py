@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib.pyplot import figure, viridis
 
 dict = {
     "X" : [0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4],
@@ -28,32 +29,41 @@ matrix2 = np.column_stack((vec3, vec4, vec5, vec6))
 m = np.matmul(matrix1, matrix2)
 print(m)
 
-# Импорт библиотек
 import pandas as pd
-from sklearn.datasets import load_iris
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
+import matplotlib.pyplot as plt
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from sklearn.model_selection import train_test_split
+from sklearn.datasets import load_iris
 
-# Загрузка данных
+
+
 iris = load_iris()
-df = pd.DataFrame(data=iris.data, columns=iris.feature_names)
-df['species'] = iris.target  # 0=Setosa, 1=Versicolor, 2=Virginica
 
-# Выберем два вида (Versicolor и Virginica)
-df = df[df['species'] != 0]  # Удаляем Setosa
+df = pd.DataFrame(data=iris.data, columns=iris.feature_names)
+df['species'] = iris.target
+
+df = df[df['species'] != 0]
+
+figure(figsize=(10,6))
 
 X = df[['sepal length (cm)', 'sepal width (cm)']]
 y = df['species']
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+plt.scatter(df['sepal length (cm)'], df['sepal width (cm)'], c=y, cmap='viridis')
 
-model1 = LogisticRegression(random_state = 123)
-model1.fit(X_train, y_train)
+plt.xlabel('Длинна чашелистика')
+plt.ylabel('Ширина чашелистика')
+plt.title('Размеры чашелистиков')
 
-accuracy_train = accuracy_score(model1.predict(X_train), y_train)
+plt.show()
 
-y_pred = model1.predict(X_test)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=123)
+
+model = KNeighborsClassifier(n_neighbors=10)
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
 
 accuracy = accuracy_score(y_test, y_pred)
 precision = precision_score(y_test, y_pred)
@@ -64,3 +74,6 @@ print(accuracy)
 print(precision)
 print(recall)
 print(f1)
+
+
+

@@ -1,3 +1,9 @@
+#!!!
+#Метод ближайших соседей - скажи мне - кто твои k соседей,
+#И я скажу - кто ты. Ничего сложного.
+
+
+
 from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd
 from sklearn.metrics import *
