@@ -1,6 +1,6 @@
 #https://education.yandex.ru/ege/task/7102b1d9-1aed-45d5-bb07-8fb3361ed445
 strokes = []
-with open("_6.txt") as f:
+with open("xls.txt") as f:
     for s in f:
         stroke = s.split("\t")
         for i in range(0, len(stroke)):

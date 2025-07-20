@@ -1,3 +1,4 @@
+#https://education.yandex.ru/ege/task/bb173014-fb1f-4c57-9840-67b3210d31ad
 def algo(s1):
     s = str(s1)
     while "17" in s or "377" in s or "777" in s:

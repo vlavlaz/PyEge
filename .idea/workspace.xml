@@ -4,16 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="2 ymop learning day">
-      <change afterPath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/Boosting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/DecisionTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/RandomForest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/Stacking.py" afterDir="false" />
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="3 ymop learning day">
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9/correct_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9/csv.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9/error_proof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9/xls.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/Recall.py" beforeDir="false" afterPath="$PROJECT_DIR$/ymopLMS/AI_course/Recall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/LinearRegression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/LogistickRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/LogistickRegression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/kNN_LR_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/kNN_LR_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task12/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task13/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task13/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task17/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task2/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task2/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task25/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task25/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task5/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task5/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task8/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task8/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DasAlgos/ege/task9/_6.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +103,9 @@
     "Python._6.executor": "Run",
     "Python._7.executor": "Run",
     "Python._8.executor": "Run",
+    "Python.correct_solution.executor": "Run",
+    "Python.err.executor": "Run",
+    "Python.error_proof.executor": "Run",
     "Python.gista.executor": "Run",
     "Python.irisDATA.executor": "Run",
     "Python.kNN_LR_method.executor": "Run",
@@ -108,25 +118,25 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vlaz/pyprojects/MyPython/ymopLMS/AI_course/sklearnLIB",
+    "last_opened_file_path": "/home/vlaz/pyprojects/MyPython/DasAlgos/ege/Yandex_incorrect_tasks/task9",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB" />
+      <recent name="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task9" />
+      <recent name="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task24" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task17" />
-      <recent name="$PROJECT_DIR$/DasAlgos/ege/task3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9" />
       <recent name="$PROJECT_DIR$/DasAlgos" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task2" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task27/_3" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task27/_2" />
-      <recent name="$PROJECT_DIR$/DasAlgos/ege/task27/_1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -289,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752875251992</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="3 ymop learning day">
+      <option name="closed" value="true" />
+      <created>1752998331306</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1752998331306</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,6 +340,7 @@
     <MESSAGE value="5 пробник --&gt; 59/100;" />
     <MESSAGE value="5 пробник --&gt; 59/100;" />
     <MESSAGE value="2 ymop learning day" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 ymop learning day" />
+    <MESSAGE value="3 ymop learning day" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 ymop learning day" />
   </component>
 </project>

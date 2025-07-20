@@ -1,3 +1,4 @@
+#https://education.yandex.ru/ege/task/7954f17b-5247-4104-b3ac-b8f0d668abb2
 from turtle import *
 speed(1)
 k = 5

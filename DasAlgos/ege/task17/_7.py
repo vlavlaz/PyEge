@@ -1,13 +1,14 @@
+#https://education.yandex.ru/ege/task/9152c645-7b1c-4957-a389-f7aeff81450a
 pairs, nums = [], []
 with open("_7.txt") as f:
     for x in f:
         nums.append(int(x))
     for i in range(0, len(nums)-1):
         pairs.append([nums[i], nums[i+1]])
-print(sorted(nums))
+#print(sorted(nums))
 mx__ = 94
 def _1cond(pair):
-    if len(str(pair[0])) == 2 or len(str(pair[1])) == 2:
+    if len(str(abs(pair[0]))) == 2 or len(str(abs(pair[1]))) == 2:
         return True
     else:
         return False
