@@ -4,17 +4,162 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="6 пробник --&gt; 72/100">
-      <change afterPath="$PROJECT_DIR$/ymopLMS/AI_course/neuralnet/minist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ymopLMS/AI_course/neuralnet/neurals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ymopLMS/AI_course/recall/_2.py" afterDir="false" />
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="4 ymop learning day">
+      <change beforePath="$PROJECT_DIR$/.idea/MyPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonEgeMcko.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9/correct_solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9/csv.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9/error_proof.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9/xls.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/buz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/Recall.py" beforeDir="false" afterPath="$PROJECT_DIR$/ymopLMS/AI_course/recall/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/DrawMountains.py" beforeDir="false" afterPath="$PROJECT_DIR$/DrawMountains.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/EGE.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/13(2).txt" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/13(2).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask10.py" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/MCKOTask10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask11.py" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/MCKOTask11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask13.py" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/MCKOTask13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask13inline.py" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/MCKOTask13inline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/MCKOTask2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/MCKOTask5.py" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/MCKOTask5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/MCKO10classDemo/SimpleTasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/MCKO10classDemo/SimpleTasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task12/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task12/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task12/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task12/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task12/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task12/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task12/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task12/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task12/_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task13/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task13/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task13/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task13/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task13/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task13/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task13/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task13/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task13/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task13/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task13/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task13/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task13/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task13/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type1/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task14/type1/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type1/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task14/type1/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type1/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task14/type1/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task14/type2/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task14/type2/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task14/type2/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task14/type2/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task14/type2/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task14/type2/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task14/type2/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task17/_8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task17/_8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task2/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task2/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task2/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task2/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task2/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task2/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task2/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task2/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task2/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task2/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task2/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task2/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task24/_8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task24/_8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task25/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task25/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task25/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task25/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task25/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task25/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task25/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task25/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task25/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task25/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task25/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task25/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task25/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task25/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task25/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task25/_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task26/_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task26/_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_1/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_1/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_1/_1A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_1/_1A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_1/_1Б.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_1/_1Б.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_2/_2A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_2/_2A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_2/_2Aunsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_2/_2Aunsv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_2/_2B.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_2/_2B.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_2/_2Bunsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_2/_2Bunsv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_3/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_3/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_3/_3A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_3/_3A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task27/_3/_3B.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task27/_3/_3B.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task5/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task5/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task5/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task5/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task5/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task5/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task5/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task5/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task5/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task5/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task5/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task5/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task5/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task5/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task5/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task5/_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task6TURTLE/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task6TURTLE/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task6TURTLE/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task6TURTLE/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task6TURTLE/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task6TURTLE/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task6TURTLE/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task6TURTLE/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task6TURTLE/_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task8/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task8/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task8/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task8/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task8/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task8/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task8/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task8/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task8/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task8/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task8/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task8/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DasAlgos/ege/task9/_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/task9/_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/matplotLIB/plots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/neuralnet/minist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/neuralnet/neurals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/pandaLIB/DataFrames.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/recall/_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/recall/_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/Boosting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/DecisionTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/LinearRegression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/LogistickRegression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/RandomForest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/Stacking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/irisDATA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ymopLMS/AI_course/sklearnLIB/kNN_LR_method.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,60 +209,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Boosting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataFrames.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DecisionTree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DrawMountains.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EGE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EGE_Lib.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LinearRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LogistickRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MCKOTask10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MCKOTask11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MCKOTask13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MCKOTask13inline.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MCKOTask2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MCKOTask5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MCKOTask6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RandomForest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Recall.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SimpleTasks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Stacking.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task23.executor&quot;: &quot;Run&quot;,
-    &quot;Python._1.executor&quot;: &quot;Run&quot;,
-    &quot;Python._2.executor&quot;: &quot;Run&quot;,
-    &quot;Python._2A.executor&quot;: &quot;Run&quot;,
-    &quot;Python._2B.executor&quot;: &quot;Run&quot;,
-    &quot;Python._3.executor&quot;: &quot;Run&quot;,
-    &quot;Python._4.executor&quot;: &quot;Run&quot;,
-    &quot;Python._5.executor&quot;: &quot;Run&quot;,
-    &quot;Python._6.executor&quot;: &quot;Run&quot;,
-    &quot;Python._7.executor&quot;: &quot;Run&quot;,
-    &quot;Python._8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.correct_solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.err.executor&quot;: &quot;Run&quot;,
-    &quot;Python.error_proof.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.irisDATA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kNN_LR_method.executor&quot;: &quot;Run&quot;,
-    &quot;Python.neurals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
-    &quot;Python.type1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.type2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vlaz/pyprojects/MyPython/DasAlgos/ege/task24&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.Boosting.executor": "Run",
+    "Python.DataFrames.executor": "Run",
+    "Python.DecisionTree.executor": "Run",
+    "Python.DrawMountains.executor": "Run",
+    "Python.EGE.executor": "Run",
+    "Python.EGE_Lib.executor": "Run",
+    "Python.LinearRegression.executor": "Run",
+    "Python.LogistickRegression.executor": "Run",
+    "Python.MCKOTask10.executor": "Run",
+    "Python.MCKOTask11.executor": "Run",
+    "Python.MCKOTask13.executor": "Run",
+    "Python.MCKOTask13inline.executor": "Run",
+    "Python.MCKOTask2.executor": "Run",
+    "Python.MCKOTask5.executor": "Run",
+    "Python.MCKOTask6.executor": "Run",
+    "Python.RandomForest.executor": "Run",
+    "Python.Recall.executor": "Run",
+    "Python.SimpleTasks.executor": "Run",
+    "Python.Stacking.executor": "Run",
+    "Python.Task23.executor": "Run",
+    "Python._1.executor": "Run",
+    "Python._2.executor": "Run",
+    "Python._2A.executor": "Run",
+    "Python._2B.executor": "Run",
+    "Python._3.executor": "Run",
+    "Python._4.executor": "Run",
+    "Python._5.executor": "Run",
+    "Python._6.executor": "Run",
+    "Python._7.executor": "Run",
+    "Python._8.executor": "Run",
+    "Python.correct_solution.executor": "Run",
+    "Python.err.executor": "Run",
+    "Python.error_proof.executor": "Run",
+    "Python.gista.executor": "Run",
+    "Python.irisDATA.executor": "Run",
+    "Python.kNN_LR_method.executor": "Run",
+    "Python.neurals.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.tests.executor": "Run",
+    "Python.type1.executor": "Run",
+    "Python.type2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/vlaz/pyprojects/PythonProject",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task24" />
@@ -318,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753027719375</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="4 ymop learning day">
+      <option name="closed" value="true" />
+      <created>1753110029710</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1753110029710</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,6 +507,7 @@
     <MESSAGE value="3 ymop learning day" />
     <MESSAGE value="Добавил ссылки для 5 пробника" />
     <MESSAGE value="6 пробник --&gt; 72/100" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 пробник --&gt; 72/100" />
+    <MESSAGE value="4 ymop learning day" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 ymop learning day" />
   </component>
 </project>

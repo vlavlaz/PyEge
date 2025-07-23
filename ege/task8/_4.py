@@ -1,7 +1,7 @@
 #https://education.yandex.ru/ege/task/32c7899b-c561-46bc-9cef-cb491436f6e7
 # АВЕНС
 # 01234
-from DasAlgos.EGE import cs_conv
+from EGE import cs_conv
 def valid(x):
     _x = str(x)
     if _x[0] == "3" and _x.count("1") == 2:

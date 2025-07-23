@@ -1,5 +1,5 @@
 # https://education.yandex.ru/ege/task/bc22a1e4-4d9f-4514-be43-3b8bd6d3be35
-from DasAlgos.EGE import BIG_NUM
+from EGE import BIG_NUM
 f = open("_3.txt")
 s = ""
 for x in f:
