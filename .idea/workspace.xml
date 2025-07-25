@@ -4,17 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Reworked structure">
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task26/all_fipi/_5.txt" afterDir="false" />
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Solved some 26 fipi tasks">
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_27/_27A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_27/_27A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_27/_27B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_27/_27B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_2/_9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="structure-rework" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,8 +104,17 @@
     "Python.Stacking.executor": "Run",
     "Python.Task23.executor": "Run",
     "Python._1.executor": "Run",
+    "Python._12.executor": "Run",
+    "Python._13.executor": "Run",
     "Python._135.executor": "Run",
+    "Python._14.executor": "Run",
+    "Python._17.executor": "Run",
     "Python._2.executor": "Run",
+    "Python._24.executor": "Run",
+    "Python._25.executor": "Run",
+    "Python._26.executor": "Run",
+    "Python._27.executor": "Run",
+    "Python._27B.executor": "Run",
     "Python._2A.executor": "Run",
     "Python._2B.executor": "Run",
     "Python._3.executor": "Run",
@@ -104,6 +123,7 @@
     "Python._6.executor": "Run",
     "Python._7.executor": "Run",
     "Python._8.executor": "Run",
+    "Python._9.executor": "Run",
     "Python.correct_solution.executor": "Run",
     "Python.err.executor": "Run",
     "Python.error_proof.executor": "Run",
@@ -119,19 +139,19 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "structure-rework",
-    "last_opened_file_path": "/home/vlaz/pyprojects/PyEge/ege/practice/task26/all_fipi",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/vlaz/pyprojects/PyEge/ege/samplers/_2",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ege/samplers/_2" />
+      <recent name="$PROJECT_DIR$/ege/samplers/_2/_27" />
       <recent name="$PROJECT_DIR$/ege/practice/task26/all_fipi" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task24" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task17" />
-      <recent name="$PROJECT_DIR$/DasAlgos/ege/task9" />
-      <recent name="$PROJECT_DIR$/DasAlgos/ege/Yandex_incorrect_tasks/task9" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ege" />
@@ -365,7 +385,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753368972568</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Solved some 26 fipi tasks">
+      <option name="closed" value="true" />
+      <created>1753381892804</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1753381892804</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Solved some 26 fipi tasks">
+      <option name="closed" value="true" />
+      <created>1753381954472</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1753381954472</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +415,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="structure-rework" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -392,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Оптимизировал фудзияму - алгоритм рисования гор" />
     <MESSAGE value="решил DemoMCKO для 10 класса" />
     <MESSAGE value="you" />
     <MESSAGE value="Задание 23 уничтожено, но не запрогано." />
@@ -417,17 +452,7 @@
     <MESSAGE value="Relocated YndxLMS into its own repository" />
     <MESSAGE value="Renamed MCKO" />
     <MESSAGE value="Reworked structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reworked structure" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ege/practice/task26/all_fipi/_5.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Solved some 26 fipi tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved some 26 fipi tasks" />
   </component>
 </project>
