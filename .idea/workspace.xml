@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Corrected _2_27">
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Corrected sampler _1">
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_3/_9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_1/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_1/_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +103,7 @@
     "Python._13.executor": "Run",
     "Python._135.executor": "Run",
     "Python._14.executor": "Run",
+    "Python._16.executor": "Run",
     "Python._17.executor": "Run",
     "Python._2.executor": "Run",
     "Python._24.executor": "Run",
@@ -123,18 +137,18 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vlaz/python/PyEge",
+    "last_opened_file_path": "/home/vlaz/python/PyEge/ege/samplers/_3",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ege/samplers/_3" />
       <recent name="$PROJECT_DIR$/ege/samplers/_2" />
       <recent name="$PROJECT_DIR$/ege/samplers/_2/_27" />
       <recent name="$PROJECT_DIR$/ege/practice/task26/all_fipi" />
       <recent name="$PROJECT_DIR$/DasAlgos/ege/task24" />
-      <recent name="$PROJECT_DIR$/DasAlgos/ege/task17" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ege" />
@@ -400,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753863761661</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Corrected sampler _1">
+      <option name="closed" value="true" />
+      <created>1753867196876</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1753867196877</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,7 +449,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 23 уничтожено, но не запрогано." />
     <MESSAGE value="Накидал за щеку заданиям на прогу, добавил свою ЕГЭ либу" />
     <MESSAGE value="Поправил либу, накинул заданий, задание 9_2 багнулось" />
     <MESSAGE value="Надо будет каждый завершенный рабочий день коммит делать,чтобы очев была продуктивность за день по инфе" />
@@ -452,6 +473,7 @@
     <MESSAGE value="Solved some 26 fipi tasks" />
     <MESSAGE value="7 sampler --&gt; 88/100&#10;^u^&#10;prog_mistake: №27" />
     <MESSAGE value="Corrected _2_27" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrected _2_27" />
+    <MESSAGE value="Corrected sampler _1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected sampler _1" />
   </component>
 </project>
