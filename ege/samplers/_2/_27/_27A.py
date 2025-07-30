@@ -26,9 +26,9 @@ for x in data:
     deg.append(x[0]); r.append(x[1])
 for deg, r in data:
     if 175.96 <= deg <= 195.94:
-        claster_1.append([r*np.cos(deg), r*np.sin(deg)])
+        claster_1.append([r*np.cos(np.deg2rad(deg)), r*np.sin(np.deg2rad(deg))])
     else:
-        claster_2.append([r*np.cos(deg), r*np.sin(deg)])
+        claster_2.append([r*np.cos(np.deg2rad(deg)), r*np.sin(np.deg2rad(deg))])
 center_1 = find_center(claster_1)
 center_2 = find_center(claster_2)
 print((center_1[0]+center_2[0])/2*10000)

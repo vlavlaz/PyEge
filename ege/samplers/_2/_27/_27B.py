@@ -31,11 +31,11 @@ print(sorted(deg))
 
 for deg, r in data:
     if 33.15 <= deg <= 53.14:
-        claster_1.append([r*np.cos(deg), r*np.sin(deg)])
+        claster_1.append([r*np.cos(np.deg2rad(deg)), r*np.sin(np.deg2rad(deg))])
     elif 72.52 <= deg <= 92.49:
-        claster_2.append([r*np.cos(deg), r*np.sin(deg)])
+        claster_2.append([r*np.cos(np.deg2rad(deg)), r*np.sin(np.deg2rad(deg))])
     else:
-        claster_3.append([r*np.cos(deg), r*np.sin(deg)])
+        claster_3.append([r*np.cos(np.deg2rad(deg)), r*np.sin(np.deg2rad(deg))])
 center_1 = find_center(claster_1)
 center_2 = find_center(claster_2)
 center_3 = find_center(claster_3)
