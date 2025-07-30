@@ -7,11 +7,7 @@ with open("_9.txt") as f:
             stroke[i] = int(stroke[i])
         strokes.append(stroke)
 def valid(stroke):
-    uniq = []
-    for x in stroke:
-        if x not in uniq:
-            uniq.append(x)
-    if len(uniq)==2 or len(uniq)==1:
+    if stroke[0] == stroke[2] and stroke[1] == stroke[3]:
         return True
     else:
         return False

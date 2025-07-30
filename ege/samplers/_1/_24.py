@@ -7,18 +7,18 @@ alf = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 mx = 0
 for i in range(0, len(s)):
     c_g = 0
-    sub_s = ""
     if s[i] in "AEIOUY":
-        for j in range(i+1, len(s)-1):
-            if s[j] in "AEIOUY":
-                c_g += 1
-            if c_g == 2:
-                break
-            if alf.index(s[j]) <= alf.index(s[j+1]):
-                sub_s+=s[j]
-            else:
-                break
-    else: continue
+        c_g = 1
+    sub_s = s[i]
+    for j in range(i+1, len(s)-1):
+        if s[j] in "AEIOUY":
+            c_g += 1
+        if c_g == 2:
+            break
+        if alf.index(s[j-1]) < alf.index(s[j]):
+            sub_s+=s[j]
+        else:
+            break
     if mx < len(sub_s):
         print(sub_s)
         mx = len(sub_s)

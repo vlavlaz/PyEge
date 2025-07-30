@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="7 sampler --&gt; 88/100&#10;^u^&#10;prog_mistake: №27">
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Corrected _2_27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_27/_27A.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_2/_27/_27A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_27/_27B.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_2/_27/_27B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_1/_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_1/_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -392,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753457077312</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Corrected _2_27">
+      <option name="closed" value="true" />
+      <created>1753863761661</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1753863761661</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="you" />
     <MESSAGE value="Задание 23 уничтожено, но не запрогано." />
     <MESSAGE value="Накидал за щеку заданиям на прогу, добавил свою ЕГЭ либу" />
     <MESSAGE value="Поправил либу, накинул заданий, задание 9_2 багнулось" />
@@ -444,6 +451,7 @@
     <MESSAGE value="Reworked structure" />
     <MESSAGE value="Solved some 26 fipi tasks" />
     <MESSAGE value="7 sampler --&gt; 88/100&#10;^u^&#10;prog_mistake: №27" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 sampler --&gt; 88/100&#10;^u^&#10;prog_mistake: №27" />
+    <MESSAGE value="Corrected _2_27" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected _2_27" />
   </component>
 </project>
