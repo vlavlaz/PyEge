@@ -19,4 +19,5 @@ for n in range(4, 10001):
     if nechmult(stroke) > 100000:
         print(n)
         print(stroke)
+        print(nechmult(stroke))
         break
