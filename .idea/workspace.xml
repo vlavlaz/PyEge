@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Работа над ошибками 9 пробник(HARD)&#10;Гойда пацаны">
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_27_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_27_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_27_B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_27_А.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/samplers/_5/_9.txt" afterDir="false" />
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="10 пробник --&gt; 75/100">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_5/_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_5/_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_5/_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/_5/_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,77 +64,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.Boosting.executor": "Run",
-    "Python.DataFrames.executor": "Run",
-    "Python.DecisionTree.executor": "Run",
-    "Python.DrawMountains.executor": "Run",
-    "Python.EGE.executor": "Run",
-    "Python.EGE_Lib.executor": "Run",
-    "Python.LinearRegression.executor": "Run",
-    "Python.LogistickRegression.executor": "Run",
-    "Python.MCKOTask10.executor": "Run",
-    "Python.MCKOTask11.executor": "Run",
-    "Python.MCKOTask13.executor": "Run",
-    "Python.MCKOTask13inline.executor": "Run",
-    "Python.MCKOTask2.executor": "Run",
-    "Python.MCKOTask5.executor": "Run",
-    "Python.MCKOTask6.executor": "Run",
-    "Python.RandomForest.executor": "Run",
-    "Python.Recall.executor": "Run",
-    "Python.SimpleTasks.executor": "Run",
-    "Python.Stacking.executor": "Run",
-    "Python.Task23.executor": "Run",
-    "Python._1.executor": "Run",
-    "Python._12.executor": "Run",
-    "Python._13.executor": "Run",
-    "Python._135.executor": "Run",
-    "Python._14.executor": "Run",
-    "Python._16.executor": "Run",
-    "Python._17.executor": "Run",
-    "Python._2.executor": "Run",
-    "Python._24.executor": "Run",
-    "Python._25.executor": "Run",
-    "Python._26.executor": "Run",
-    "Python._27.executor": "Run",
-    "Python._27A.executor": "Run",
-    "Python._27B.executor": "Run",
-    "Python._27_A.executor": "Run",
-    "Python._27_B.executor": "Run",
-    "Python._2A.executor": "Run",
-    "Python._2B.executor": "Run",
-    "Python._3.executor": "Run",
-    "Python._4.executor": "Run",
-    "Python._5.executor": "Run",
-    "Python._6.executor": "Run",
-    "Python._7.executor": "Run",
-    "Python._8.executor": "Run",
-    "Python._9.executor": "Run",
-    "Python.buz.executor": "Run",
-    "Python.correct_solution.executor": "Run",
-    "Python.err.executor": "Run",
-    "Python.error_proof.executor": "Run",
-    "Python.gista.executor": "Run",
-    "Python.irisDATA.executor": "Run",
-    "Python.kNN_LR_method.executor": "Run",
-    "Python.matplotlib_showcase.executor": "Run",
-    "Python.neurals.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.tests.executor": "Run",
-    "Python.type1.executor": "Run",
-    "Python.type2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vlaz/python/PyEge/ege/samplers/_5",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Boosting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataFrames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DecisionTree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DrawMountains.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EGE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EGE_Lib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LinearRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LogistickRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask13inline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MCKOTask6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomForest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Recall.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SimpleTasks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stacking.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task23.executor&quot;: &quot;Run&quot;,
+    &quot;Python._1.executor&quot;: &quot;Run&quot;,
+    &quot;Python._12.executor&quot;: &quot;Run&quot;,
+    &quot;Python._13.executor&quot;: &quot;Run&quot;,
+    &quot;Python._135.executor&quot;: &quot;Run&quot;,
+    &quot;Python._14.executor&quot;: &quot;Run&quot;,
+    &quot;Python._16.executor&quot;: &quot;Run&quot;,
+    &quot;Python._17.executor&quot;: &quot;Run&quot;,
+    &quot;Python._2.executor&quot;: &quot;Run&quot;,
+    &quot;Python._24.executor&quot;: &quot;Run&quot;,
+    &quot;Python._25.executor&quot;: &quot;Run&quot;,
+    &quot;Python._26.executor&quot;: &quot;Run&quot;,
+    &quot;Python._27.executor&quot;: &quot;Run&quot;,
+    &quot;Python._27A.executor&quot;: &quot;Run&quot;,
+    &quot;Python._27B.executor&quot;: &quot;Run&quot;,
+    &quot;Python._27_A.executor&quot;: &quot;Run&quot;,
+    &quot;Python._27_B.executor&quot;: &quot;Run&quot;,
+    &quot;Python._2A.executor&quot;: &quot;Run&quot;,
+    &quot;Python._2B.executor&quot;: &quot;Run&quot;,
+    &quot;Python._3.executor&quot;: &quot;Run&quot;,
+    &quot;Python._4.executor&quot;: &quot;Run&quot;,
+    &quot;Python._5.executor&quot;: &quot;Run&quot;,
+    &quot;Python._6.executor&quot;: &quot;Run&quot;,
+    &quot;Python._7.executor&quot;: &quot;Run&quot;,
+    &quot;Python._8.executor&quot;: &quot;Run&quot;,
+    &quot;Python._9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.correct_solution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.err.executor&quot;: &quot;Run&quot;,
+    &quot;Python.error_proof.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.irisDATA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kNN_LR_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplotlib_showcase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.neurals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vlaz/python/PyEge/ege/samplers/_5&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ege/samplers/_5" />
@@ -166,35 +150,6 @@
       <recent name="$PROJECT_DIR$/samplers/package_july_07-20/_5" />
       <recent name="$PROJECT_DIR$/samplers/package_july_07-20/_3" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="matplotlib_showcase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonEgeMcko" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../YandexLMS/FundamentalAI/BaseMachineLearning" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../YandexLMS/FundamentalAI/BaseMachineLearning/matplotlib_showcase.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.matplotlib_showcase" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -492,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755391193139</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="10 пробник --&gt; 75/100">
+      <option name="closed" value="true" />
+      <created>1755434922947</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1755434922947</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,7 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="С почином 27 задание, доделать _2" />
     <MESSAGE value="27 задание - ужас на крыльях ночи" />
     <MESSAGE value="Первый пробник по инфе: 59/100,&#10;Завтра разбор ошибок" />
     <MESSAGE value="Второй пробник по инфе после разбора ошибок: 70/100." />
@@ -544,6 +506,7 @@
     <MESSAGE value="Corrected _3" />
     <MESSAGE value="sampler 9 (HARD) --&gt; 54/100" />
     <MESSAGE value="Работа над ошибками 9 пробник(HARD)&#10;Гойда пацаны" />
-    <option name="LAST_COMMIT_MESSAGE" value="Работа над ошибками 9 пробник(HARD)&#10;Гойда пацаны" />
+    <MESSAGE value="10 пробник --&gt; 75/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 пробник --&gt; 75/100" />
   </component>
 </project>
