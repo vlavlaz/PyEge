@@ -4,171 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="РНО 10 пробник --&gt; накинем стратегии в некст разы">
-      <change afterPath="$PROJECT_DIR$/ege/practice/task19-21/_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task19-21/_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task19-21/_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task24/_4-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task24/_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task24/_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task24/_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task24/_6.txt" afterDir="false" />
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Бот 19-21, 24. 19-21 = Теория игр теперь решаются через прогу">
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_4/_4A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_4/_4A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_4/_4B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_4/_4B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_5/check_july-august_20-17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_6/_6A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_6/_6A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_6/_6B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_6/_6B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_7/_7A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_7/_7A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_7/_7B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_7/_7B.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_1/_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_1/_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_27/_27A.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_27/_27A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_27/_27A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_27/_27A.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_27/_27B.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_27/_27B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_27/_27B.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_27/_27B.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_2/_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_2/_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_3/_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_3/_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_4HARD/_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_4HARD/_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_27_A.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_27_A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_27_B.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_27_B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_27_B.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_27_B.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_27_А.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_27_А.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/_5/_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17/_5/_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_1/_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_1/_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_26.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_2/_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_2/_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_3/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_3/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_4/_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_4/_9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ege/samplers/package_july_07-20/_5/_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ege/samplers/packages/july_07-17/_5/_9.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,9 +116,15 @@
     "Python._2B.executor": "Run",
     "Python._3.executor": "Run",
     "Python._4.executor": "Run",
+    "Python._4A.executor": "Run",
+    "Python._4B.executor": "Run",
     "Python._5.executor": "Run",
     "Python._6.executor": "Run",
+    "Python._6A.executor": "Run",
+    "Python._6B.executor": "Run",
     "Python._7.executor": "Run",
+    "Python._7A.executor": "Run",
+    "Python._7B.executor": "Run",
     "Python._8.executor": "Run",
     "Python._9.executor": "Run",
     "Python.buz.executor": "Run",
@@ -289,18 +145,18 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vlaz/python/PyEge/ege/practice/task24",
+    "last_opened_file_path": "/home/vlaz/python/PyEge/ege/practice/task27/_7",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ege/practice/task27/_7" />
+      <recent name="$PROJECT_DIR$/ege/practice/task27/_6" />
+      <recent name="$PROJECT_DIR$/ege/practice/task27/_4" />
+      <recent name="$PROJECT_DIR$/ege/practice/task27/_5" />
       <recent name="$PROJECT_DIR$/ege/practice/task24" />
-      <recent name="$PROJECT_DIR$/ege/samplers/_5" />
-      <recent name="$PROJECT_DIR$/ege/samplers/_4HARD" />
-      <recent name="$PROJECT_DIR$/ege/samplers/_3" />
-      <recent name="$PROJECT_DIR$/ege/samplers/_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17" />
@@ -313,7 +169,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
@@ -622,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755803123933</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Бот 19-21, 24. 19-21 = Теория игр теперь решаются через прогу">
+      <option name="closed" value="true" />
+      <created>1756309015467</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1756309015467</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -649,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Первый пробник по инфе: 59/100,&#10;Завтра разбор ошибок" />
     <MESSAGE value="Второй пробник по инфе после разбора ошибок: 70/100." />
     <MESSAGE value="Работа над ошибками 2-го пробника" />
     <MESSAGE value="3 пробник --&gt; 63/100 баллов" />
@@ -674,6 +537,7 @@
     <MESSAGE value="Работа над ошибками 9 пробник(HARD)&#10;Гойда пацаны" />
     <MESSAGE value="10 пробник --&gt; 75/100" />
     <MESSAGE value="РНО 10 пробник --&gt; накинем стратегии в некст разы" />
-    <option name="LAST_COMMIT_MESSAGE" value="РНО 10 пробник --&gt; накинем стратегии в некст разы" />
+    <MESSAGE value="Бот 19-21, 24. 19-21 = Теория игр теперь решаются через прогу" />
+    <option name="LAST_COMMIT_MESSAGE" value="Бот 19-21, 24. 19-21 = Теория игр теперь решаются через прогу" />
   </component>
 </project>
