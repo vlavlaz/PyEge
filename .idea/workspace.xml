@@ -4,20 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Бот 19-21, 24. 19-21 = Теория игр теперь решаются через прогу">
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_4/_4A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_4/_4A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_4/_4B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_4/_4B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_5/check_july-august_20-17" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_6/_6A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_6/_6A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_6/_6B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_6/_6B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_7/_7A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_7/_7A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_7/_7B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ege/practice/task27/_7/_7B.txt" afterDir="false" />
+    <list default="true" id="2bcf8577-d7b1-466f-a2b9-020423381b6d" name="Changes" comment="Бот 27 номера">
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_27_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_27_A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_27_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_27_B.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ege/samplers/_1/_9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +109,7 @@
     "Python._14.executor": "Run",
     "Python._16.executor": "Run",
     "Python._17.executor": "Run",
+    "Python._19-21.executor": "Run",
     "Python._2.executor": "Run",
     "Python._24.executor": "Run",
     "Python._25.executor": "Run",
@@ -145,18 +152,18 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vlaz/python/PyEge/ege/practice/task27/_7",
+    "last_opened_file_path": "/home/vlaz/python/PyEge/ege/samplers/_1",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ege/samplers/_1" />
       <recent name="$PROJECT_DIR$/ege/practice/task27/_7" />
       <recent name="$PROJECT_DIR$/ege/practice/task27/_6" />
       <recent name="$PROJECT_DIR$/ege/practice/task27/_4" />
       <recent name="$PROJECT_DIR$/ege/practice/task27/_5" />
-      <recent name="$PROJECT_DIR$/ege/practice/task24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ege/samplers/packages/july-august_20-17" />
@@ -486,7 +493,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756309015467</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Бот 27 номера">
+      <option name="closed" value="true" />
+      <created>1757239659357</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1757239659357</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -513,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Второй пробник по инфе после разбора ошибок: 70/100." />
     <MESSAGE value="Работа над ошибками 2-го пробника" />
     <MESSAGE value="3 пробник --&gt; 63/100 баллов" />
     <MESSAGE value="Работа над ошибками 3 пробник" />
@@ -538,6 +552,7 @@
     <MESSAGE value="10 пробник --&gt; 75/100" />
     <MESSAGE value="РНО 10 пробник --&gt; накинем стратегии в некст разы" />
     <MESSAGE value="Бот 19-21, 24. 19-21 = Теория игр теперь решаются через прогу" />
-    <option name="LAST_COMMIT_MESSAGE" value="Бот 19-21, 24. 19-21 = Теория игр теперь решаются через прогу" />
+    <MESSAGE value="Бот 27 номера" />
+    <option name="LAST_COMMIT_MESSAGE" value="Бот 27 номера" />
   </component>
 </project>
