@@ -15,13 +15,12 @@ def valid(s):
     sunech = 0
     for x in s:
         if x%2==1:
-            sunech+=x
+            sunech+=x #Вероятно в задании немного другое имелось, нежели я понял
     if surep <= sunech:
         return True
     return False
-cnt = 0
 for s in strokes:
     if valid(s):
         print(s)
-        print(s[0]+s[1]+s[2]+s[3]+s[4]+s[5]+s[6])
+        print(s[0]+s[1]+s[2]+s[3]+s[4]+s[5]+s[6], cnt)
         break
